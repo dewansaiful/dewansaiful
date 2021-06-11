@@ -1,4 +1,4 @@
-### Hi there, I'm  [DEWAN SAIFUL][profile] 👋
+### Hi there, I'm  [DEWAN SAIFUL] 👋
 
 - 👀 I’m interested in ...Devlopment
 - 🌱 I’m currently learning ...
@@ -17,7 +17,7 @@
 
 
 
-[profile]: https://github.com/dewansaiful
+[DEWAN SAIFUL]: https://github.com/dewansaiful
 [whatsapp]: https://wa.link/t5z8v7
 [instagram]: https://www.instagram.com/saiful.dewan21
 [facebook]: https://www.facebook.com/Saiful.dewan21
