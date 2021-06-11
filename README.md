@@ -6,16 +6,16 @@
 - ⚡ I love to play Cricket and listening Music !
 - 📫 How to reach me ...🔽
 
-================================================================================
+======================================================================================
 ### Connect with me:
-
+======================================================================================
 [<img align="left" alt="dewansaiful | Whatsapp" width="22px" src="images/whatsapp.svg" />][whatsapp]
 [<img align="left" alt="dewansaiful | Instagram" width="22px" src="images/instagram.svg" />][instagram]
 [<img align="left" alt="dewansaiful | Facebook" width="22px" src="images/facebook.svg" />][facebook]
 [<img align="left" alt="dewansaiful | YouTube" width="22px" src="images/youtube.svg" />][youtube]
 [<img align="left" alt="dewansaiful | LinkedIn" width="22px" src="images/linkedin.svg" />][linkedin]
 
-===================
+
 
 [profile]: https://github.com/dewansaiful
 [whatsapp]: https://wa.link/t5z8v7
