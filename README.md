@@ -9,8 +9,6 @@
 ====================================================================================
 ### Connect with me:
 
-</br>
-
 [<img align="left" alt="dewansaiful | Whatsapp" width="22px" src="images/whatsapp.svg" />][whatsapp]
 [<img align="left" alt="dewansaiful | Instagram" width="22px" src="images/instagram.svg" />][instagram]
 [<img align="left" alt="dewansaiful | Facebook" width="22px" src="images/facebook.svg" />][facebook]
