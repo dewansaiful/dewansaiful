@@ -1,30 +1,28 @@
 ### Hi there, I'm  [DEWAN SAIFUL][profile] 👋
 
-- 👀 I’m interested in ...Devlopment
+ 👀 I’m interested in ...Devlopment
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ I love to play Cricket and listening Music !
-- 📫 How to reach me ...
+- 📫 How to reach me ...🔽
 
 ================================================================================
-## Connect with me:
+### Connect with me:
 
+[<img align="left" alt="dewansaiful | Whatsapp" width="22px" src="images/whatsapp.svg" />][whatsapp]
 [<img align="left" alt="dewansaiful | Instagram" width="22px" src="images/instagram.svg" />][instagram]
+[<img align="left" alt="dewansaiful | Facebook" width="22px" src="images/facebook.svg" />][facebook]
 [<img align="left" alt="dewansaiful | YouTube" width="22px" src="images/youtube.svg" />][youtube]
 [<img align="left" alt="dewansaiful | LinkedIn" width="22px" src="images/linkedin.svg" />][linkedin]
 
 ===================
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
-
-
-
-<br />
-
-
-
-
 [profile]: https://github.com/dewansaiful
+[whatsapp]: https://wa.link/t5z8v7
+[instagram]: https://www.instagram.com/saiful.dewan21
+[facebook]: https://www.facebook.com/Saiful.dewan21
+[linkedin]: https://www.linkedin.com/in/saifuldewan21
+[youtube]: https://www.youtube.com/channel/UCD68NehHm4aEsQ2n6DYOoKQ
 
 
 
