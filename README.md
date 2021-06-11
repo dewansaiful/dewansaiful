@@ -1,14 +1,13 @@
 ### Hi there, I'm  [DEWAN SAIFUL][profile] 👋
 
- 👀 I’m interested in ...Devlopment
+- 👀 I’m interested in ...Devlopment
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ I love to play Cricket and listening Music !
 - 📫 How to reach me ...🔽
-
-======================================================================================
+====================================================================================
 ### Connect with me:
-======================================================================================
+====================================================================================
 [<img align="left" alt="dewansaiful | Whatsapp" width="22px" src="images/whatsapp.svg" />][whatsapp]
 [<img align="left" alt="dewansaiful | Instagram" width="22px" src="images/instagram.svg" />][instagram]
 [<img align="left" alt="dewansaiful | Facebook" width="22px" src="images/facebook.svg" />][facebook]
