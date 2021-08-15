@@ -5,7 +5,9 @@
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ I love to play Cricket and listening Music !
 - 📫 How to reach me ...🔽
-
+<p align="center">
+<a href="mailto:dewansaifulislam11@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-dewansaifulislam11@gmail.com-red?style=flat&logo=gmail"></a>
+</p>
 ====================================================================================
 ### Connect with me:
 
