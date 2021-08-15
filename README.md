@@ -10,7 +10,6 @@
 </p>
 
 ====================================================================================
-
 ### Connect with me:
 
 [<img align="left" alt="dewansaiful | Whatsapp" width="22px" src="images/whatsapp.svg" />][whatsapp]
